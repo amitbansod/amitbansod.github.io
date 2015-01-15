@@ -2,13 +2,15 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://amitbansod.github.io
+url: https://amitbansod.github.io
 title: Travel Stories
 subtitle: 
 author: Amit Bansod
 simple_search: https://www.google.com/search
 description:
 enforce_ssl: amitbansod.github.io
+reading_time:     true
+words_per_minute: 200
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
 # http://www.ruby-doc.org/core-1.9.2/Time.html#method-i-strftime
@@ -58,8 +60,25 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # blog_index_asides:
 # post_asides:
 # page_asides:
-avatar: /images/my-picture.jpg
 
+# Owner/author information
+author_name:           Amit Bansod
+avatar: /images/my-picture.jpg
+author_bio: "I am awesome!"
+email:          bansod.amit@gmail.com
+# Social networking links used in footer. Update and remove as you like.
+twitter:        
+facebook:       
+github:         
+stackexchange:  
+linkedin:       
+instagram:      
+flickr:         
+tumblr:         
+# For Google Authorship https://plus.google.com/authorship
+# google plus id, include the '+', eg +mmistakes
+google_plus:    +yourid
+background:
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #

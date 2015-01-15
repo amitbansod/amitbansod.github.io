@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://amitbansod.github.io
+title: Travel Stories
+subtitle: 
+author: Amit Bansod
 simple_search: https://www.google.com/search
 description:
 
@@ -58,6 +58,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # blog_index_asides:
 # post_asides:
 # page_asides:
+avatar: /images/my-picture.jpg
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -74,7 +75,7 @@ twitter_user:
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -91,11 +92,11 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: amittravelblog
 disqus_show_comment_count: false
 
 # Google Analytics
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true

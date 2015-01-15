@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Travel Stories]]></title>
+  <link href="http://amitbansod.github.io/atom.xml" rel="self"/>
+  <link href="http://amitbansod.github.io/"/>
+  <updated>2015-01-15T23:56:31+05:30</updated>
+  <id>http://amitbansod.github.io/</id>
+  <author>
+    <name><![CDATA[Amit Bansod]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>

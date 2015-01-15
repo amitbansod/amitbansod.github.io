@@ -6,6 +6,17 @@
 
 <head>
 
+<!--
+  redirect users to the https version of the website.
+  but: only check when on the production domain, as set in _config.yml.
+ -->
+<script type="text/javascript">
+  var enforce = "amitbansod.github.io";
+  if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+    window.location = window.location.toString().replace(/^http:/, "https:");
+</script>
+
+
 
 <meta charset="utf-8">
 <meta http-equiv="cleartype" content="on">

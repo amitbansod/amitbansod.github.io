@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://amitbansod.github.io/blog/2015/01/16/santiago-%7C-a-walk-in-the-west/</loc>
+    <loc>https://amitbansod.github.io/blog/2015/01/16/santiago-%7C-a-walk-in-the-west/</loc>
     <lastmod>2015-01-16T01:22:44+05:30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://amitbansod.github.io/</loc>
-    <lastmod>2015-01-16T01:31:01+05:30</lastmod>
+    <loc>https://amitbansod.github.io/</loc>
+    <lastmod>2015-01-16T02:49:16+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>http://amitbansod.github.io/categories/</loc>
-    <lastmod>2015-01-16T01:31:01+05:30</lastmod>
+    <loc>https://amitbansod.github.io/categories/</loc>
+    <lastmod>2015-01-16T02:49:16+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://amitbansod.github.io/archives/</loc>
-    <lastmod>2015-01-16T01:31:01+05:30</lastmod>
+    <loc>https://amitbansod.github.io/archives/</loc>
+    <lastmod>2015-01-16T02:49:16+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>http://amitbansod.github.io/posts/</loc>
-    <lastmod>2015-01-16T01:31:01+05:30</lastmod>
+    <loc>https://amitbansod.github.io/posts/</loc>
+    <lastmod>2015-01-16T02:49:16+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

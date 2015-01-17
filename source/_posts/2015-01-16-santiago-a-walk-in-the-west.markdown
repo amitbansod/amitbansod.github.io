@@ -9,7 +9,7 @@ image:
   feature: /images/1.jpg
 ---
 
-I started my first visit to South America from Santiago. I chose to travel predominatnly in Chile for few reasons: If you consider geography of Chile, it has some of the unique places in South America from southern Patagonia, Central Valley to Atacama Desert in north; I had slightly less than 4 weeks for this trip; and it was also cheaper to plan my itinerary from Santiago ;-) . 
+I started my first visit to South America from Santiago. This was also my first Solo trip in this part of the world. I chose to travel predominatnly in Chile for few reasons: If you consider geography of Chile, it has some of the unique places in South America from southern Patagonia, Central Valley to Atacama Desert in north; I had slightly less than 4 weeks for this trip; and it was also cheaper to plan my itinerary from Santiago ;-) . 
 
 I planned to stay in Santiago for few days before heading south to Central Valley. Then the plan was to head north of Chile towards San Pedro de Atacama and to keep going further north to Peru, all the way to the last stop, Lima before heading home. I booked an open jaw flight for this trip which allowed me to fly to Santiago and fly back from Lima. Such tickets are very convenient than round trip tickets and in my case it was way cheaper as well! I took the flight from Madrid to Santiago on Iberia. The in-flight entairtainment & meals were good on the new A340.
 

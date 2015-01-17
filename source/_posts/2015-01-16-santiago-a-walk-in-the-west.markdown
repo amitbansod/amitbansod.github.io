@@ -9,11 +9,18 @@ image:
   feature: /images/1.jpg
 ---
 
-On the first day in Santiago, I decided to take a walk in local areas of Santiago. The places where people of Santiago shop, eat and celebrate. The west of Santiago is bustling with local markets, old town and people. 
+I started my first visit to South America from Santiago. I chose to travel predominatnly in Chile for few reasons: If you consider geography of Chile, it has some of the unique places in South America from southern Patagonia, Central Valley to Atacama Desert in north; I had slightly less than 4 weeks for this trip; and it was also cheaper to plan my itinerary from Santiago ;-) . 
+
+I planned to stay in Santiago for few days before heading south to Central Valley. Then the plan was to head north of Chile towards San Pedro de Atacama and to keep going further north to Peru, all the way to the last stop, Lima before heading home. I booked an open jaw flight for this trip which allowed me to fly to Santiago and fly back from Lima. Such tickets are very convenient than round trip tickets and in my case it was way cheaper as well! I took the flight from Madrid to Santiago on Iberia. The in-flight entairtainment & meals were good on the new A340.
+
+After 13 hours of flight from Madrid, I arrived at the Santiago airport in the morning. The immigration & custom process were seamless. You should take care not bring any fresh fruits & vegetables to Chile as it is not allowed. Once outside, I took the Centro Puerto bus to goto Santiago. This bus service is cheap ($ 1600 pesos) and very convenient unless you have very heavy, bulky luggage.
 
 I stayed in the Brazilian neighbourhood, an area between metro stations "Republica" & "Cummins". Being one of the oldest neighbourhood in Santiago, you get a real picture of the city in this area. It has some nice, old restaurants where you can sit, chat with locals and get to know more about them. The houses & surrounding graffitis have a distinct look!
 
 {% img /images/1.jpg 800 600 %}
+
+On the first day in Santiago, I decided to take a walk in local areas of Santiago. Since, my spanish was very bad, I deciced to first take a guided tour to get some information beforehand. The tour4tips company organizes a local tour of west  of Santiago. The west of Santiago is bustling with local markets, old town and people. The places where people of Santiago shop, eat and celebrate.
+
 {% img /images/2.jpg 800 600 %}
 {% img /images/3.jpg 800 600 %}
 

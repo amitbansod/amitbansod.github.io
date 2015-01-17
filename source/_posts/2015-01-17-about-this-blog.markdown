@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "About This Blog"
-date: 2015-01-17 15:57:30 +0530
+date: 2015-01-01 00:00:00 +0100
 comments: true
 categories: 
 ---

@@ -67,7 +67,7 @@ In the end, we tried Sopaipillas, a local delicacy you will find everywhere in C
 
 They thought I am from Italy for unknown reasons. :D
 
-{% img /images/15.jpg 800 600 %
+{% img /images/15.jpg 800 600 %}
 
 {% img /images/16.jpg 800 600 %}
 

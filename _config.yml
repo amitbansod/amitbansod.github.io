@@ -3,13 +3,13 @@
 # ----------------------- #
 
 url: https://amitbansod.github.io
-title: Travel Stories
-subtitle: 
+title: Amit Bansod
+subtitle: Travel Stories
 author: Amit Bansod
 simple_search: https://www.google.com/search
 description:
 enforce_ssl: amitbansod.github.io
-reading_time:     true
+reading_time: true
 words_per_minute: 200
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -62,10 +62,10 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # page_asides:
 
 # Owner/author information
-author_name:           Amit Bansod
+author_name: Amit Bansod
 avatar: /images/my-picture.jpg
 author_bio: "I am awesome!"
-email:          bansod.amit@gmail.com
+email: bansod.amit@gmail.com
 # Social networking links used in footer. Update and remove as you like.
 # twitter:        
 # facebook:       

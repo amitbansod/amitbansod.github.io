@@ -17,13 +17,13 @@ After 13 hours of flight from Madrid, I arrived at the Santiago airport in the m
 
 I stayed in hostel in the Brazilian neighbourhood, an area between metro stations "Republica" & "Cummins". Being one of the oldest neighbourhood in Santiago, you get a real picture of the city in this area. It has some nice, old restaurants where you can sit, chat with locals and get to know more about them. The houses & surrounding graffitis have a distinct look!
 
-{% img /images/1.jpg 800 600 %}
+{% img center /images/1.jpg 800 600 %}
 
 On the next day, I decided to take a walk in local areas of Santiago. To get acquinted with the local areas, I deciced to first take a guided tour to get some information beforehand. The tour4tips company organizes a local tour of west side of Santiago. This part is bustling with local markets, old town and people. The places where people of Santiago shop, eat and celebrate.
 
-{% img /images/2.jpg 800 600 %}
+{% img center /images/2.jpg 800 600 %}
 
-{% img /images/3.jpg 800 600 %}
+{% img center /images/3.jpg 800 600 %}
 
 The walk started from the Museo Nacional de Bellas Artes. The Museum, one of the oldest museums in South America, is known for collection of fine arts centered around Chile and South America. A good place to visit if you are interested !
 

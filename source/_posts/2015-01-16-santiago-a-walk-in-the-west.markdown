@@ -9,17 +9,15 @@ image:
   feature: /images/1.jpg
 ---
 
-I started my first solo visit to South America from Santiago, Chile. I chose to travel predominatnly in Chile for few reasons: Considering geography of Chile, it has some of the unique places from southern Patagonia, Central Valley to Atacama Desert in north; I had slightly less than 4 weeks for this trip; and it was also cheaper to plan my itinerary from Santiago ;-) .
+I started my first solo visit to South America from Santiago, Chile. 
 
-I planned to stay in Santiago for few days before heading south towards Central Valley. The plan was to head north of Chile from Central Valley towards San Pedro de Atacama and to keep going further north to Peru, all the way to the last stop, Lima before heading home. I booked an open jaw flight for this trip which allowed me to fly to Santiago and fly back from Lima. Such tickets are very convenient than round trip tickets and in my case it was way cheaper as well! My itinerary was Madrid to Santiago (onward) & Lima to Madrid (return).
-
-After 13 hours of flight from Madrid, I arrived at the Santiago airport in the morning. The immigration & custom process were seamless. You should take care not bring any fresh fruits & vegetables to Chile as it is not allowed. Once outside, I took the Centro Puerto bus to goto Santiago. This bus service is cheap ($ 1600 pesos) and very convenient unless you have heavy/bulky luggage.
+I planned to stay in Santiago for few days before heading south towards south. The plan was to travel south to north of Chile and then keep going further north to Peru, all the way to the last stop, Lima before heading home. I booked an open jaw flight for this trip which allowed me to fly to Santiago and fly back from Lima. Such tickets are very convenient than round trip tickets and in my case it was way cheaper as well! My itinerary was Madrid to Santiago (onward) & Lima to Madrid (return). If you come to Santiago airport, you can the Centro Puerto bus to goto Santiago downtown (Los Heroes). This bus service is cheap ($ 1600 pesos) and very convenient unless you have heavy/bulky luggage.
 
 I stayed in hostel in the Brazilian neighbourhood, an area between metro stations "Republica" & "Cummins". Being one of the oldest neighbourhood in Santiago, you get a real picture of the city in this area. It has some nice, old restaurants where you can sit, chat with locals and get to know more about them. The houses & surrounding graffitis have a distinct look!
 
 {% img center /images/1.jpg 800 600 %}
 
-On the next day, I decided to take a walk in local areas of Santiago. To get acquinted with the local areas, I deciced to first take a guided tour to get some information beforehand. The tour4tips company organizes a local tour of west side of Santiago. This part is bustling with local markets, old town and people. The places where people of Santiago shop, eat and celebrate.
+On the next day, I decided to take a walk with tour4tips company to get acquinted with the local areas in the west. This part is bustling with local markets, old town and people. The places where people of Santiago shop, eat and celebrate!
 
 {% img center /images/2.jpg 800 600 %}
 
